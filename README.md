@@ -2,7 +2,7 @@
  
 <div id="user-content-toc">
 <ul align="left">
-<summary><h1 style="display: inline-block">Hi there👋, I'm Prasanna Venkatesh N</h1></summary>
+<summary><h1 style="display: inline-block">Hi there👋, I'm Dinesh V G</h1></summary>
 </ul>
 </div>
  
@@ -13,9 +13,9 @@
  
 <picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 200px></picture>
  
-- :school: I am a `MTech Integrated Computer Science and Engineering` student at [VIT University](https://vit.ac.in/), driven by a passion for coding, problem-solving, and creative pursuits.
+- :school: I am a `B.E Aeronautical Engineering` student at [Sathyabama University](https://www.sathyabama.ac.in/), driven by a passion for coding, problem-solving, and creative pursuits.
 - :trophy: I'm always seeking challenges and learning opportunities. My current focus is on **Artificial Intelligence, Machine Learning, and Web Development.** 
-- :email: Reach out to me at: [![Send me Email](https://img.shields.io/static/v1?label=email&message=prasana.dpi@gmail.com&color=EA4335&style=flat-square)](mailto:prasana.dpi@gmail.com)
+- :email: Reach out to me at: [![Send me Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDRDTrzxgDnMHCNgqffHHcfzZDvfBhXKNZlzqGrmHbTHpmdZTvlqDmXHmhJKrcwjhHZsvc)
 - :nerd_face: I believe in continuous learning and pushing boundaries in the world of technology.
  
 <br>
@@ -24,31 +24,12 @@
  
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
- 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Machine Learning
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff)
-![Keras](https://img.shields.io/badge/Keras-D70000?style=flat-square&logo=Keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0099cc?style=flat-square&logo=MediaPipe&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0080FF?style=flat-square&logo=OpenCV&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-0080FF?style=flat-square&logo=LSTM&logoColor=white)
  
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
  
@@ -56,7 +37,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0080FF?style=flat-square&logo=HuggingFace&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
  
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
@@ -67,8 +47,6 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-<br>
  
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
  
@@ -123,6 +101,5 @@
  
 I'm always excited to connect with fellow developers and explore new opportunities! Feel free to reach out via:
  
-* **Email:** prasana.dpi@gmail.com  
-* **LinkedIn:** [https://www.linkedin.com/in/prasanna-venkatesh-b0b996247/](https://www.linkedin.com/in/prasanna-venkatesh-b0b996247/)
-* **GitHub:** [https://github.com/Prasanna23349](https://github.com/Prasanna23349)
+* **Email:** satdinu08@gmail.com
+* **GitHub:** [https://github.com/Satdinu03](https://github.com/Satdinu03)
