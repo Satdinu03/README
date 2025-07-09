@@ -15,7 +15,7 @@
  
 - :school: I am a `B.E Aeronautical Engineering` student at [Sathyabama University](https://www.sathyabama.ac.in/), driven by a passion for coding, problem-solving, and creative pursuits.
 - :trophy: I'm always seeking challenges and learning opportunities. My current focus is on **Artificial Intelligence, Machine Learning, and Web Development.** 
-- :email: Reach out to me at: [![Send me Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDRDTrzxgDnMHCNgqffHHcfzZDvfBhXKNZlzqGrmHbTHpmdZTvlqDmXHmhJKrcwjhHZsvc)]
+- :email: Reach out to me at: [![Send me Email](https://img.shields.io/static/v1?label=email&message=satdinu08@gmail.com&color=EA4335&style=flat-square)](mailto:satdinu08@gmail.com)
 - :nerd_face: I believe in continuous learning and pushing boundaries in the world of technology.
  
 <br>
